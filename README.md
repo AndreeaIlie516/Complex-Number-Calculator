@@ -1,5 +1,5 @@
 # Complex Number Calculator
-The Complex Number Calculator is a program created for helping students testing different properties of complex numbers.
+## The Complex Number Calculator is a program created for helping students testing different properties of complex numbers.
 
 **(A) Add a number**\
 `add <number>`\
